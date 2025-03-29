@@ -4,4 +4,4 @@ This repository includes the CAD (.step and .f3d) and code (.ino) files for Marc
 
 The CAD and code for the remote control can be found in its own repository at https://github.com/JoshuaStanleyRobotics/Robot-Remote
 
-A video outlining the design and assembly of Bug can be found here: https://youtu.be/nQgU45AvXcA
+A video outlining the design and assembly of Marc can be found here: https://youtu.be/nQgU45AvXcA
